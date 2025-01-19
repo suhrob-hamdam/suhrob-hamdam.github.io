@@ -29,7 +29,7 @@
         
         
           &lt;p&gt;This is my second post. Here is a picture:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;static/images/my-image.jpeg&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/my-image.jpeg&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;
           
         
         </description>
